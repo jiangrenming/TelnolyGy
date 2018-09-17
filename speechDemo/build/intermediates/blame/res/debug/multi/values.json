@@ -1,0 +1,1248 @@
+[
+    {
+        "outputFile": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 5541,
+                        "endLine": 140,
+                        "endColumn": 19,
+                        "endOffset": 5675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 5681,
+                        "endLine": 145,
+                        "endColumn": 19,
+                        "endOffset": 5843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 6217,
+                        "endLine": 162,
+                        "endColumn": 19,
+                        "endOffset": 6321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3760,
+                        "endLine": 87,
+                        "endColumn": 19,
+                        "endOffset": 3915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3921,
+                        "endLine": 93,
+                        "endColumn": 19,
+                        "endOffset": 4087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2248,
+                        "endLine": 37,
+                        "endColumn": 19,
+                        "endOffset": 2359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2365,
+                        "endLine": 41,
+                        "endColumn": 19,
+                        "endOffset": 2477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endLine": 39,
+                    "endColumn": 19,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 5298,
+                        "endLine": 131,
+                        "endColumn": 19,
+                        "endOffset": 5411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endLine": 43,
+                    "endColumn": 19,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5417,
+                        "endLine": 135,
+                        "endColumn": 19,
+                        "endOffset": 5535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endLine": 48,
+                    "endColumn": 19,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4613,
+                        "endLine": 116,
+                        "endColumn": 19,
+                        "endOffset": 4748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endLine": 53,
+                    "endColumn": 19,
+                    "endOffset": 1523
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4754,
+                        "endLine": 121,
+                        "endColumn": 19,
+                        "endOffset": 4903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1528,
+                    "endLine": 58,
+                    "endColumn": 19,
+                    "endOffset": 1657
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 6350,
+                        "endLine": 171,
+                        "endColumn": 19,
+                        "endOffset": 6483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1662,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1871
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 6489,
+                        "endLine": 176,
+                        "endColumn": 19,
+                        "endOffset": 6702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1876,
+                    "endLine": 67,
+                    "endColumn": 19,
+                    "endOffset": 1980
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 5996,
+                        "endLine": 154,
+                        "endColumn": 19,
+                        "endOffset": 6103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 1985,
+                    "endLine": 71,
+                    "endColumn": 19,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 6109,
+                        "endLine": 158,
+                        "endColumn": 19,
+                        "endOffset": 6211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2089,
+                    "endLine": 75,
+                    "endColumn": 19,
+                    "endOffset": 2208
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 5849,
+                        "endLine": 149,
+                        "endColumn": 19,
+                        "endOffset": 5971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2213,
+                    "endLine": 83,
+                    "endColumn": 19,
+                    "endOffset": 2413
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4093,
+                        "endLine": 101,
+                        "endColumn": 19,
+                        "endOffset": 4300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2418,
+                    "endLine": 91,
+                    "endColumn": 19,
+                    "endOffset": 2611
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4306,
+                        "endLine": 109,
+                        "endColumn": 19,
+                        "endOffset": 4506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2616,
+                    "endLine": 111,
+                    "endColumn": 19,
+                    "endOffset": 3269
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2483,
+                        "endLine": 61,
+                        "endColumn": 19,
+                        "endOffset": 3155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 3274,
+                    "endLine": 131,
+                    "endColumn": 19,
+                    "endOffset": 3848
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3161,
+                        "endLine": 81,
+                        "endColumn": 19,
+                        "endOffset": 3754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 3853,
+                    "endColumn": 47,
+                    "endOffset": 3896
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 47,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 3901,
+                    "endColumn": 54,
+                    "endOffset": 3951
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 3956,
+                    "endColumn": 45,
+                    "endOffset": 3997
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 45,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4002,
+                    "endColumn": 39,
+                    "endOffset": 4037
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 39,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4042,
+                    "endColumn": 39,
+                    "endOffset": 4077
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 39,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4082,
+                    "endColumn": 41,
+                    "endOffset": 4119
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 41,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4124,
+                    "endColumn": 38,
+                    "endOffset": 4158
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 38,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4163,
+                    "endColumn": 37,
+                    "endOffset": 4196
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 37,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4201,
+                    "endColumn": 39,
+                    "endOffset": 4236
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 39,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4241,
+                    "endColumn": 56,
+                    "endOffset": 4293
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 56,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 4298,
+                    "endColumn": 55,
+                    "endOffset": 4349
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 55,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 4354,
+                    "endColumn": 43,
+                    "endOffset": 4393
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 43,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 4398,
+                    "endColumn": 43,
+                    "endOffset": 4437
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 73,
+                        "endColumn": 43,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 4442,
+                    "endColumn": 120,
+                    "endOffset": 4558
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 120,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 4563,
+                    "endColumn": 52,
+                    "endOffset": 4611
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2058,
+                        "endColumn": 52,
+                        "endOffset": 2106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4616,
+                    "endColumn": 54,
+                    "endOffset": 4666
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1715,
+                        "endColumn": 54,
+                        "endOffset": 1765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 4671,
+                    "endColumn": 56,
+                    "endOffset": 4723
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1945,
+                        "endColumn": 56,
+                        "endOffset": 1997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 4728,
+                    "endColumn": 54,
+                    "endOffset": 4778
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 54,
+                        "endOffset": 1821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 4783,
+                    "endColumn": 51,
+                    "endOffset": 4830
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2003,
+                        "endColumn": 51,
+                        "endOffset": 2050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 4835,
+                    "endColumn": 45,
+                    "endOffset": 4876
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 45,
+                        "endOffset": 1313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 4881,
+                    "endColumn": 50,
+                    "endOffset": 4927
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 50,
+                        "endOffset": 1424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 4932,
+                    "endColumn": 57,
+                    "endOffset": 4985
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 57,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 4990,
+                    "endColumn": 88,
+                    "endOffset": 5074
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 5208,
+                        "endColumn": 88,
+                        "endOffset": 5292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 5079,
+                    "endColumn": 52,
+                    "endOffset": 5127
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 5095,
+                        "endColumn": 52,
+                        "endOffset": 5143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 5132,
+                    "endColumn": 57,
+                    "endOffset": 5185
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5149,
+                        "endColumn": 57,
+                        "endOffset": 5202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 5190,
+                    "endColumn": 54,
+                    "endOffset": 5240
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1659,
+                        "endColumn": 54,
+                        "endOffset": 1709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 5245,
+                    "endColumn": 91,
+                    "endOffset": 5332
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5002,
+                        "endColumn": 91,
+                        "endOffset": 5089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 5337,
+                    "endColumn": 72,
+                    "endOffset": 5405
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 4928,
+                        "endColumn": 72,
+                        "endOffset": 4996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 5410,
+                    "endColumn": 214,
+                    "endOffset": 5620
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 214,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 5625,
+                    "endColumn": 57,
+                    "endOffset": 5678
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1827,
+                        "endColumn": 57,
+                        "endOffset": 1880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 5683,
+                    "endColumn": 55,
+                    "endOffset": 5734
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1886,
+                        "endColumn": 55,
+                        "endOffset": 1937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 5739,
+                    "endColumn": 156,
+                    "endOffset": 5891
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 156,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 5896,
+                    "endColumn": 414,
+                    "endOffset": 6306
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 414,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 6311,
+                    "endColumn": 145,
+                    "endOffset": 6452
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 145,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 6457,
+                    "endColumn": 54,
+                    "endOffset": 6507
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 54,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 6512,
+                    "endColumn": 52,
+                    "endOffset": 6560
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1544,
+                        "endColumn": 52,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 6565,
+                    "endColumn": 56,
+                    "endOffset": 6617
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1486,
+                        "endColumn": 56,
+                        "endOffset": 1538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 6622,
+                    "endColumn": 59,
+                    "endOffset": 6677
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1598,
+                        "endColumn": 59,
+                        "endOffset": 1653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 6682,
+                    "endColumn": 52,
+                    "endOffset": 6730
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2114,
+                        "endColumn": 52,
+                        "endOffset": 2162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 6735,
+                    "endColumn": 53,
+                    "endOffset": 6784
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2168,
+                        "endColumn": 53,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 6789,
+                    "endColumn": 82,
+                    "endOffset": 6867
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 4512,
+                        "endColumn": 82,
+                        "endOffset": 4590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6872,
+                    "endLine": 182,
+                    "endColumn": 9,
+                    "endOffset": 7396
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 6,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 9,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 7401,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 7488
+                },
+                "from": {
+                    "file": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 689
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml\\iat_setting.xml",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\xml\\iat_setting.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml\\tts_setting.xml",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\xml\\tts_setting.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml\\understand_setting.xml",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\xml\\understand_setting.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml\\ise_settings.xml",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\xml\\ise_settings.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml\\url_setting.xml",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\xml\\url_setting.xml"
+    }
+]
