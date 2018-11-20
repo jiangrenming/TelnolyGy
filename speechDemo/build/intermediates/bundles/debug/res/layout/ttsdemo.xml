@@ -33,11 +33,11 @@
     <EditText
         android:id="@+id/tts_text"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
+        android:layout_height="wrap_content"
         android:gravity="top|left"
-        android:text="@string/text_tts_source"
-        android:textSize="20sp" />
+        android:hint="请只输入金额"
+        android:textSize="16sp" />
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -70,6 +70,24 @@
             android:layout_weight="1"
             android:text="发音人" />
     </LinearLayout>
+
+    <!--<RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        <RadioButton
+            android:id="@+id/jiaofen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="以“角分”结尾的语音" />
+        <RadioButton
+            android:id="@+id/yuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="以“元” 结尾的语音" />
+    </RadioGroup>-->
 
     <LinearLayout
         android:layout_width="match_parent"

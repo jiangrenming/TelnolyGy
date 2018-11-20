@@ -10,12 +10,14 @@ import android.media.MediaPlayer;
 import android.media.SoundPool;
 import android.os.Build;
 import android.os.Environment;
+import android.text.TextUtils;
 import android.util.Log;
 
 import java.io.File;
 import java.io.FileDescriptor;
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.List;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
@@ -45,7 +47,7 @@ public class SpeakerVoice {
     private  String inPath;
     private byte[] mData;
     private  int mLoop = 0;
-
+    private    String mTransType;
 
 
     private SpeakerVoice() {
@@ -125,6 +127,15 @@ public class SpeakerVoice {
             return  this;
         }
 
+        /**
+         * 交易类型
+         * @param transType
+         */
+        public  Builder setTransType(String transType){
+            mVoice.mTransType = transType;
+            return this;
+        }
+
     }
 
     /**
@@ -154,14 +165,24 @@ public class SpeakerVoice {
                                 if (mResId != 0){        //assets或raw中的音频文件
                                     int load = soundPool.load(mContext , mResId, 1);
                                 }else {                 //文件中的音频文件
-                                    if (isPCM(inPath)){   //如果是pcm格式就将其转换成wav格式
-                                       outPath = inPath.replace(".pcm", ".wav");
-                                        int pcmConvertToWAV = pcmConvertToWAV();
-                                        Log.i("是否转换成功",pcmConvertToWAV+"");
+                                    if (TextUtils.isEmpty(inPath)){   //外界不传的话，从本sdk资源里读取资源音频
+                                        if (mTransType.equals("1")){   //支付宝支付格式
+                                            int load = soundPool.load(mContext, R.raw.tts_1, 1);
+                                        }else if (mTransType.equals("2")){
+                                            int load = soundPool.load(mContext, R.raw.tts_2, 1);
+                                        }else if (mTransType.equals("3")){
+                                            int load = soundPool.load(mContext, R.raw.tts_3, 1);
+                                        }
                                     }else {
-                                        outPath = inPath;
+                                        if (isPCM(inPath)){   //如果是pcm格式就将其转换成wav格式
+                                            outPath = inPath.replace(".pcm", ".wav");
+                                            int pcmConvertToWAV = pcmConvertToWAV();
+                                            Log.i("是否转换成功",pcmConvertToWAV+"");
+                                        }else {
+                                            outPath = inPath;
+                                        }
+                                        int load = soundPool.load(outPath, 1);
                                     }
-                                    int load = soundPool.load(outPath, 1);
                                 }
                                 soundPool.setOnLoadCompleteListener(new SoundPool.OnLoadCompleteListener() {
                                     @Override

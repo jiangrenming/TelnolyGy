@@ -8,12 +8,12 @@
         "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\isrdemo.xml"
     },
     {
-        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\understander.xml",
-        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\understander.xml"
-    },
-    {
         "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
         "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\understander.xml",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\understander.xml"
     },
     {
         "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\item_group.xml",
@@ -28,12 +28,12 @@
         "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\title.xml"
     },
     {
-        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_result_identify.xml",
-        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\activity_result_identify.xml"
-    },
-    {
         "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\ttsdemo.xml",
         "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\ttsdemo.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_result_identify.xml",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\activity_result_identify.xml"
     },
     {
         "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\list_items.xml",
@@ -56,12 +56,12 @@
         "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\item_identify_result.xml"
     },
     {
-        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_face_identify.xml",
-        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\activity_face_identify.xml"
-    },
-    {
         "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\isedemo.xml",
         "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\isedemo.xml"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_face_identify.xml",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\layout\\activity_face_identify.xml"
     },
     {
         "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_group_manager.xml",

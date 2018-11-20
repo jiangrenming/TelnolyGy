@@ -19,6 +19,6 @@ android {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/VoiceSDKJar_V1.0.jar')
     compile project(':speechDemo')
 }

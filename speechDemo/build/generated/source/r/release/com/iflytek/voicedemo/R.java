@@ -180,7 +180,11 @@ public final class R {
         public static int understander=0x7f030010;
     }
     public static final class raw {
-        public static int tts_success=0x7f050000;
+        public static int tts_1=0x7f050000;
+        public static int tts_2=0x7f050001;
+        public static int tts_3=0x7f050002;
+        public static int tts_hundred=0x7f050003;
+        public static int tts_success=0x7f050004;
     }
     public static final class string {
         public static int app_id=0x7f090000;

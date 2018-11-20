@@ -1,5 +1,21 @@
 [
     {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\raw\\tts_3.wav",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\raw\\tts_3.wav"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\raw\\tts_1.wav",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\raw\\tts_1.wav"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\raw\\tts_2.wav",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\raw\\tts_2.wav"
+    },
+    {
+        "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\raw\\tts_hundred.mp3",
+        "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\raw\\tts_hundred.mp3"
+    },
+    {
         "merged": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\build\\intermediates\\res\\merged\\release\\raw\\tts_success.mp3",
         "source": "F:\\workspace\\android-kline-master(1)\\TelnolyGy\\speechDemo\\src\\main\\res\\raw\\tts_success.mp3"
     }

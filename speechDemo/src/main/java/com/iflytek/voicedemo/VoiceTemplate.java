@@ -21,6 +21,7 @@ public class VoiceTemplate {
     private String suffix;
 
     private String voiceType;
+    private String mTransType;
 
     public VoiceTemplate() {
 
@@ -28,10 +29,9 @@ public class VoiceTemplate {
 
     public static List<String> getDefaultTemplate(String money){
         return new VoiceTemplate()
-                .voiceType("支付宝")
-                .prefix("到账")
+                .prefix("1")
                 .numString(money)
-                .suffix("元")
+                .suffix("yuan")
                 .gen();
     }
 
@@ -56,11 +56,26 @@ public class VoiceTemplate {
         }
     }
 
+    //音频前缀
+    public VoiceTemplate voiceHeader(String header) {
+        this.voiceType = header;
+        return this;
+    }
 
+
+    //音频中间部分
+    public VoiceTemplate transType(String transType) {
+        this.mTransType = transType;
+        return this;
+    }
+
+    //尾部语言
     public VoiceTemplate prefix(String prefix) {
         this.prefix = prefix;
         return this;
     }
+
+
     public VoiceTemplate voiceType(String voiceType) {
         this.voiceType = voiceType;
         return this;
@@ -111,12 +126,14 @@ public class VoiceTemplate {
         if (!TextUtils.isEmpty(voiceType)) {
             result.add(voiceType);
         }
+        if (!TextUtils.isEmpty(mTransType)){
+            result.add(mTransType);
+        }
         if (!TextUtils.isEmpty(prefix)) {
             result.add(prefix);
         }
         if (!TextUtils.isEmpty(numString)) {
-           // result.addAll(genReadableMoney(numString));
-            result.addAll(genFenReadableMoney(numString));
+           result.addAll(genFenReadableMoney(numString));
         }
 
         if (!TextUtils.isEmpty(suffix)) {
@@ -136,7 +153,7 @@ public class VoiceTemplate {
                 List<String> decimalList = readDecimalPart(decimalPart);
                 result.addAll(intList);
                 if (!decimalList.isEmpty()){
-                    result.add("点");
+                    result.add("dot");
                     result.addAll(decimalList);
                 }
             }else {
@@ -155,14 +172,14 @@ public class VoiceTemplate {
                 List<String> intList = readIntPart(integerPart);
                 List<String> decimalList = readFenDecimalPart(decimalPart);
                 result.addAll(intList);
-                result.add("元");
+       //         result.add("yuan");
                 if (!decimalList.isEmpty()){
-                    result.add("点");
+                    result.add("dot");
                     result.addAll(decimalList);
                 }
             }else {
                 result.addAll(readIntPart(numString));
-                result.add("元");
+    //            result.add("yuan");
             }
         }
         return result;
@@ -192,8 +209,11 @@ public class VoiceTemplate {
                 decimalPart = decimalPart + "0";  //金额小数点保留长度 <2 ,后面+0，补充为2位
             }
             char[] chars = decimalPart.toCharArray();
-            result.add(0,chars[0]+"角");
-            result.add(1,chars[1]+"分");
+            result.add(String.valueOf(chars[0]));
+     //       result.add("horn");
+            result.add(String.valueOf(chars[1]));
+     //       result.add("branch");
+
         }
         return result;
     }
@@ -206,20 +226,15 @@ public class VoiceTemplate {
         for (int i =0; i < len;i++){
             char current = intString.charAt(i);
             if (current == '拾'){
-            //    result.add("ten");
-                result.add("拾");
+                result.add("ten");
             }else if (current == '佰'){
-           //     result.add("hundred");
-                result.add("佰");
+               result.add("hundred");
             }else if (current == '仟'){
-            //    result.add("thousand");
-                result.add("仟");
+                result.add("thousand");
             }else if (current == '万'){
-             //   result.add("ten_thousand");
-                result.add("万");
+                result.add("ten_thousand");
             }else if (current == '亿'){
-            //    result.add("ten_million");
-                result.add("亿");
+                result.add("ten_million");
             }else {
                 result.add(String.valueOf(current));
             }

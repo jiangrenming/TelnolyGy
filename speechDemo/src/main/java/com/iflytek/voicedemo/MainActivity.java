@@ -30,6 +30,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import java.io.File;
+import java.util.List;
 
 public class MainActivity extends Activity implements OnClickListener {
 
@@ -46,6 +47,10 @@ public class MainActivity extends Activity implements OnClickListener {
 		mToast = Toast.makeText(this, "", Toast.LENGTH_SHORT);
 		SimpleAdapter listitemAdapter = new SimpleAdapter();
 		((ListView) findViewById(R.id.listview_main)).setAdapter(listitemAdapter);
+		File file = new File((Environment.getExternalStorageDirectory() + "/tts_9.pcm"));
+		if (file.exists()){
+			file.delete();
+		}
 
 	}
 
@@ -62,17 +67,27 @@ public class MainActivity extends Activity implements OnClickListener {
 		case 1:
 			// 语法识别
 			//intent = new Intent(MainActivity.this, AsrDemo.class);
-			File file = new File((Environment.getExternalStorageDirectory() + "/record.wav"));
+			File file = new File((Environment.getExternalStorageDirectory() + "/tts_ten_million.wav"));
 			if (file.exists()){
 				file.delete();
 			}
-			String inPath = Environment.getExternalStorageDirectory() + "/tts.pcm";
+			File files = new File((Environment.getExternalStorageDirectory() + "/tts_ten_million.pcm"));
+			if (files.exists()){
+				files.delete();
+			}
+			String inPath = Environment.getExternalStorageDirectory() + "/tts_member.pcm";
 			AudioParams audioParams = new AudioParams();
 			audioParams.setRequency(8000);
 			audioParams.setAudioFormat(AudioFormat.ENCODING_PCM_16BIT);
 			audioParams.setChannelConfig(AudioFormat.CHANNEL_OUT_MONO);
-			SpeakerVoice mVoice = new SpeakerVoice.Builder(this).setVoiceType(1).setInPath(inPath).setAudioParams(audioParams).setLoop(0).mVoice;
+			SpeakerVoice mVoice = new SpeakerVoice.Builder(this).setVoiceType(1).setAudioParams(audioParams).setTransType("1").setInPath(inPath).setLoop(0).mVoice;
 			mVoice.startSpeak();
+			/*try {
+				new VoiceSpeaker.Builder(this).setTransType("wechat").numMoney("0.98").mVoice.speak();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}*/
+
 			break;
 		case 2:
 			// 语义理解

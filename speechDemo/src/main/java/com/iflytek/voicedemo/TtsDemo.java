@@ -139,26 +139,15 @@ public class TtsDemo extends Activity implements OnClickListener {
 			 * 只保存音频不进行播放接口,调用此接口请注释startSpeaking接口
 			 * text:要合成的文本，uri:需要保存的音频全路径，listener:回调接口
 			*/
-			if (isMobilePhone(text)){
-				List<String> template = new VoiceTemplate.Builder().setVoiceType("支付宝").setPrefix("到账").template.numString(text).gen();
-				StringBuilder sb  = new StringBuilder();
-				for (int j = 0; j < template.size(); j++) {
-					sb.append(template.get(j));
-				}
-				Log.i("录音的字符串:",sb.toString());
-				String path = Environment.getExternalStorageDirectory()+"/tts.pcm";
+				String path = Environment.getExternalStorageDirectory()+"/tts_member.pcm";
 				File file = new File(path);
 				if (file.exists()){
 					file.delete();
 				}
-				int code = mTts.synthesizeToUri(sb.toString(), path, mTtsListener);
+				int code = mTts.synthesizeToUri("会员收款", path, mTtsListener);
 				if (code != ErrorCode.SUCCESS) {
 					showTip("语音合成失败,错误码: " + code);
 				}
-			}else {
-				Toast.makeText(TtsDemo.this,"输入的不是一连串的数字",Toast.LENGTH_SHORT).show();
-				return;
-			}
 
 		} else if (i == R.id.tts_cancel) {
 			mTts.stopSpeaking();
@@ -323,7 +312,7 @@ public class TtsDemo extends Activity implements OnClickListener {
 			// 设置在线合成发音人
 			mTts.setParameter(SpeechConstant.VOICE_NAME, voicer);
 			//设置合成语速
-			mTts.setParameter(SpeechConstant.SPEED, mSharedPreferences.getString("speed_preference", "30"));
+			mTts.setParameter(SpeechConstant.SPEED, mSharedPreferences.getString("speed_preference", "40"));
 			//设置合成音调
 			mTts.setParameter(SpeechConstant.PITCH, mSharedPreferences.getString("pitch_preference", "50"));
 			//设置合成音量
